@@ -2,7 +2,7 @@
 # Code presents structure implementation
 # Aims to prove that the same block of code is used
 # for encryption and decryption.
-# by Radek Zaleski
+# 2020
   
 import binascii 
 import random 
